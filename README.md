@@ -14,3 +14,8 @@ npm test
 npm run build
 
 ```
+``` bash
+
+npm i tailwindcss
+
+```
