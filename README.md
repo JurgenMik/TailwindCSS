@@ -14,6 +14,8 @@ npm test
 npm run build
 
 ```
+## Get started with Tailwind
+
 ``` bash
 
 npm i tailwindcss
